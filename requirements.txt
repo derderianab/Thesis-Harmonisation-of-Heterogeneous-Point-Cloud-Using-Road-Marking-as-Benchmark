@@ -1,0 +1,7 @@
+numpy
+laspy
+matplotlib
+geopandas
+shapely
+scipy
+open3d
